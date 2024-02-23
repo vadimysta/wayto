@@ -1,0 +1,60 @@
+.magical {
+    min-height: 800px;
+    margin-top: 93px; 
+    margin-bottom: 934px;
+    padding: 0px 15px;
+    .magical__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .magical__title {
+        color: $black;
+        font-family: Manrope;
+        font-size: 107px;
+        font-weight: 400;
+        line-height: 110px;
+        letter-spacing: 7px;
+        text-align: center;
+    }
+
+    .magical__paragraph {
+        color: $black;
+        font-family: Manrope;
+        font-size: 42px;
+        font-weight: 400;
+        line-height: 48px;
+        letter-spacing: 1.5px;
+        text-align: center;
+        margin: 62px 45px;
+    }
+
+    .button {
+        padding: 15px 255px 15px 256px;
+        border-radius: 15px;
+        box-shadow: 0px 208px 58px 0px rgba(0, 0, 0, 0.01);
+        background: $black;
+        color: $green;
+        font-family: Manrope;
+        font-size: 41px;
+        font-weight: 400;
+        line-height: 58px;
+        letter-spacing: 0.8px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .magical__trial {
+        width: 386px;
+        height: 28px;
+        color: $black;
+        font-family: Manrope;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 28px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+}
