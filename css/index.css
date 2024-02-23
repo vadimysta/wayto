@@ -1,1 +1,11 @@
-/*# sourceMappingURL=index.css.map */
+body {
+  background-color: rgb(214, 252, 82);
+  font-family: "Manrope", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  border: none;
+}/*# sourceMappingURL=index.css.map */
