@@ -158,6 +158,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  margin-bottom: 114px;
 }
 .super_easy .super__title {
   color: #000;
@@ -167,6 +168,7 @@ body {
   line-height: 110px;
   letter-spacing: 7px;
   text-align: center;
+  margin-bottom: 67px;
 }
 .super_easy .super__text {
   color: #000;
