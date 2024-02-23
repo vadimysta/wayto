@@ -1,0 +1,51 @@
+.header {
+    .header__content {
+        min-height: 78px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .main-menu {
+        display: flex;
+        gap: 44px;
+    }
+
+    .menu-link {
+        color: $black;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0%;
+        text-align: left;
+    }
+
+    .auth-links {
+        display: flex;
+        gap: 50px;
+    }
+
+    .Sign-In {
+        color: $black;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0%;
+        text-align: center;
+    }
+
+    .Sign-Up {
+        color: $white;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0%;
+        text-align: center;
+        padding: 1px 21px 1px 19px;
+        background-color: $black;
+        border-radius: 10px;
+    }
+}
