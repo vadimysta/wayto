@@ -178,4 +178,57 @@ body {
   line-height: 48px;
   letter-spacing: 1.5px;
   text-align: center;
+}
+
+.meet .meet__content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.meet .meet__title {
+  color: #000;
+  font-family: Manrope;
+  font-size: 106px;
+  font-weight: 400;
+  line-height: 110px;
+  letter-spacing: 7px;
+  text-align: center;
+}
+.meet .button {
+  padding: 15px 255px 15px 256px;
+  border-radius: 15px;
+  -webkit-box-shadow: 0px 208px 58px 0px rgba(0, 0, 0, 0.01);
+          box-shadow: 0px 208px 58px 0px rgba(0, 0, 0, 0.01);
+  background: #000;
+  color: rgb(214, 252, 82);
+  font-family: Manrope;
+  font-size: 41px;
+  font-weight: 400;
+  line-height: 58px;
+  letter-spacing: 0.8px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.meet .meet__trial {
+  color: #000;
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.meet .img__hand {
+  margin-top: 67px;
+  margin-bottom: 40px;
 }/*# sourceMappingURL=index.css.map */
