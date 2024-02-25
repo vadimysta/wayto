@@ -1,3 +1,4 @@
+@import "" l;
 body {
   background-color: rgb(214, 252, 82);
   font-family: "Manrope", sans-serif;
@@ -180,6 +181,9 @@ body {
   text-align: center;
 }
 
+.meet {
+  margin-bottom: 79px;
+}
 .meet .meet__content {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -231,4 +235,23 @@ body {
 .meet .img__hand {
   margin-top: 67px;
   margin-bottom: 40px;
+}
+
+.special {
+  width: 100%;
+  min-height: 196px;
+  background-color: #000;
+}
+
+.special-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  min-height: 196px;
 }/*# sourceMappingURL=index.css.map */

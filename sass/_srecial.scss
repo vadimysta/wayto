@@ -1,0 +1,12 @@
+.special {
+    width: 100%;
+    min-height: 196px;
+    background-color: $black;
+}
+
+.special-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    min-height: 196px;
+}
